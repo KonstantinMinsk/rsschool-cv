@@ -20,8 +20,8 @@ From 09.2013 OJSC BPS-Sberbank.
 Job position - Lead legal advisor.    
 
 ### Tech education 
-HTML Academy
-Codewars
+>  HTML Academy
+>  Codewars
 
 ### Skills
 > HTML5 / CSS3
