@@ -237,10 +237,6 @@ figure {
         width: auto;
     }
 
-    h2 {
-
-    }
-
     .grid-area:not(:nth-child(1)):not(:nth-child(2)):not(:nth-child(8)) {
     background-color: inherit;
     color: black;
