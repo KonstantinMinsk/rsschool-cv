@@ -185,11 +185,12 @@ figure {
     border: none;
     border-radius: 5px;
     padding: 10px;
-    transition-duration: 600ms;
   }
 .card-button:hover {
     background-color:#00CBBF;
-    color: #fff;
+    color: rgb(221, 255, 253);
+    cursor: pointer;
+    transition: 400ms ease-out;
 }
 
 .community {
