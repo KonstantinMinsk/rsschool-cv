@@ -1,5 +1,5 @@
-# **Konstantsin Kasko**
-+375 (25) 925-41-06 Viber, mixx007@tut.by
+# **Konstantsin**
++375 (25) 9.. Viber, mixx007@tut.by
 
 ## Summary ##
 
