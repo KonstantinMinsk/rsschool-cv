@@ -1,24 +1,41 @@
 # **Konstantsin**
 +375 (25) 9.. Viber, mixx007@tut.by
 
-## Summary ##
+## Summary
 
-Ответственный и целеустремленный, имею опыт работы с большим объемом информации в режиме многозадачности.
-Легко усваиваю новый материал и применяю его на практике.
+I am a responsible and purposeful person. I have experience working with a large amount of information in multitasking mode. I am easily teachable.
+My goal is to become a web developer.
 
-### Education ###
-1. 2006-2011. Барановичский государственный университет, очное (бюджет). Квалификация - Хозяйственное право.	Специальность -	Юрист.
-2. 2006-2013. Барановичский государственный университет, заочное (платно). Квалификация - Специалист банковского дела.
+### Education
+2006-2011. Baranavichy State University. Full-time education. State-funded place. Qualification - Commercial Law. Specialty - lawyer.
+First Class Honours, Bachelor of Laws
 
-### Work Expirience ###
-1. 2011-2013. **Регистратор недвижимости.**, Слуцкий филиал РУП “Минское областное агентство по государственной регистрации и земельному кадастру” 
-2. с сентября 2013 **Ведущий юрисконсульт.**, ОАО "БПС-Сбербанк"    
+2011-2013. Baranavichy State University. Distance paid education. Qualification - banking. Specialty - experts in banking.
 
-### Education & Work Expirience developer IT ###
-1. Смотрю много виде на yuotube по HTML, CSS и JS.
-2. Изучил основы JAVA и Python.
+### Work Expirience 
+07.2011-08.2013 Republican Unitary Enterprise Minsk Regional Agency for state registration and land cadastre.
+Job position - Real estate registrar.
 
+From 09.2013 OJSC BPS-Sberbank.
+Job position - Lead legal advisor.    
 
+### Tech education 
+>  HTML Academy
+>  Codewars
+
+### Skills
+> HTML5 / CSS3
+> LESS
+> JavaScript
+> Git / GitHub & GitLab
+> Basic knowledge Java & Python
+> Figma & Adobe Photoshop
+> WordPress
+
+### Languages ###
+Russian: native language
+English (writing, reading): intermediate
+English (speaking): pre-intermediate
 
 
 
